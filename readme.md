@@ -14,7 +14,16 @@ Below you find a set of charts demonstrating the paths that you can take and the
 ![](https://i.imgur.com/OZUOUtI.png)
 
 ### Resources for General Topics
+
+#### Learning
+[What You Need To Know To Be A Backend Developer](https://www.youtube.com/watch?v=0Kv_k4ypj6o)
+[Git Cheat Sheet](https://alvinalexander.com/git/git-cheat-sheet-git-reference-commands)
+
+#### Tools
+
+
 ## 🎨 Frontend Roadmap
+
 
 ![](./images/frontend-v2.png)
 
