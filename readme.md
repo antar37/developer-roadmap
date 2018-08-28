@@ -13,6 +13,7 @@ Below you find a set of charts demonstrating the paths that you can take and the
 
 ![](https://i.imgur.com/OZUOUtI.png)
 
+### Resources for General Topics
 ## 🎨 Frontend Roadmap
 
 ![](./images/frontend-v2.png)
